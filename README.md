@@ -1,6 +1,6 @@
 # Donate
 
-> [Who has donated recently?](history.md)
+> [who has donated recently?](history.md)
 
 
 ## Wechat or Alipay
