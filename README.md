@@ -5,7 +5,7 @@
 
 ## Wechat or Alipay
 
-![](images/wechat-pay.png)
+<img src="images/wechat-alipay.png" style="zoom:38%;" />
 
-![](images/alipay.png)
+
 
